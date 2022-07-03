@@ -1,8 +1,8 @@
 {
 //##原版##
-//"spider": "http://9xi4o.tk/sub/custom_spider.jar",
+//"spider": "https://xiabing0102.github.io/0627.jar",
 //##网络转存版#
-"spider":"https://xiabing0102.github.io/0627.jar",
+"spider":"https://xiabing0102.github.io/999.jar",
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
